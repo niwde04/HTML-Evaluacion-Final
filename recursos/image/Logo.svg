@@ -10,9 +10,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="64.822914mm"
+   height="55.033333mm"
+   viewBox="0 0 64.822914 55.033333"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
@@ -27,16 +27,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="5.495929"
-     inkscape:cy="616.06813"
+     inkscape:cx="2.7369925"
+     inkscape:cy="-298.16564"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="807"
-     inkscape:window-x="-8"
+     inkscape:window-height="837"
+     inkscape:window-x="1592"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -52,11 +56,13 @@
   <g
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-0.72996861,-0.0756493)">
     <flowRoot
        xml:space="preserve"
        id="flowRoot3733"
-       style="fill:black;fill-opacity:1;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
          id="flowRegion3735"><rect
            id="rect3737"
            width="274.76151"
@@ -64,8 +70,8 @@
            x="64.649765"
            y="290.15399" /></flowRegion><flowPara
          id="flowPara3739"></flowPara></flowRoot>    <image
-       y="1.1447278"
-       x="0.72996742"
+       y="0.075649299"
+       x="0.72996861"
        id="image3760"
        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAPUAAADQCAYAAADf0CfgAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
 jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAACzFSURBVHhe7Z2HV1Tbsu7fH/juve/uYNi6twIq
