@@ -20,8 +20,8 @@
           <fieldset>
           
              <legend> <h2>Datos Personales</h2> </legend>
-              <h3> <strong> Nombre: </strong> Edwin Daniel Barahona Lopez</h3>
-              <h3> <strong> Fecha y Lugar de nacimiento:</strong> 04/06/1990 Tegucigalpa Honduras</h3>
+              <h3> Nombre: Edwin Daniel Barahona Lopez</h3>
+              <h3> Fecha y Lugar de nacimiento: 04/06/1990 Tegucigalpa Honduras</h3>
           
           
           
@@ -81,7 +81,7 @@
                 
                  <form>
                     <p>
-                     <label for="anio">Año</label>
+                     <label for="anio"><strong>Año</strong></label>
 
                         <select name="recomendado" id="anio">
 
@@ -113,20 +113,37 @@
                     </p>
 
                     <p>
-                        <label for="institucion">Institución</label>
+                        <label for="institucion"><strong>Institución</strong></label>
                         <input type="text" id="institucion" required>
                      </p>
                     
                      <p>
-                          <label for="Lugar">Lugar</label>
+                          <label for="Lugar"><strong>Lugar</strong></label>
 
                         </p>
 
                             <textarea  id="Lugar" rows="8" cols="32"> 
                             </textarea>
+                       
+                      
+
+                        <p>
+                            <Label for="culmino"> <strong>¿Culmino?</strong> </Label>
+                        </p>
+
+                        <p> 
+                            <input type="radio" name="culmino" id="culmino" value="si">Si<br>
+                            <input type="radio" name="culmino" id="culmino" value="no">No
+                                
+                                
+        
+                        </p>
 
                         
-                   <p> 
+
+
+                        <p> 
+
                        <input type="submit" value="Enviar">
                    </p>
                  </form>
